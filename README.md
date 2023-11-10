@@ -90,3 +90,4 @@
 
 ## MainMenuWidget 클래스
 ## SideScroller_IngameWIdget클래스
+- 유저에게 보여줄 UI 메뉴들
